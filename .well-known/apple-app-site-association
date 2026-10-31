@@ -6,6 +6,7 @@
         "appID": "TEAM_ID.com.doit.do_it",
         "paths": [
           "/do-it-public/alexa-link*",
+          "/do-it-public/alexa-authorize*",
           "/alexa-link*"
         ]
       }
