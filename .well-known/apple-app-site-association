@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAM_ID.com.doit.do_it",
+        "paths": [
+          "/do-it-public/alexa-link*",
+          "/alexa-link*"
+        ]
+      }
+    ]
+  }
+}
